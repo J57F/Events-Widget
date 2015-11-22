@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GTAV_Cruises Events Magic 
-// @namespace    https://github.com/J57F/Events-Widget
+// @namespace    https://github.com/J57F/Events-Widget/
 // @version      4.20
 // @description  Events block for GTAV_Cruises
 // @author       GTAV Cruises
@@ -10,7 +10,7 @@
 // @match        https://www.reddit.com/r/GTAV_Cruises/*
 // @match        https://www.reddit.com/r/gtav_cruises/*
 // @match        https://www.reddit.com/r/Gtav_cruises/*
-// @grant         none
+// @grant        none
 // @require      https://github.com/J57F/Events-Widget/raw/master/jstz.min.js
 // ==/UserScript==
 
