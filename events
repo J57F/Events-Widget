@@ -44,7 +44,7 @@ function preload(arrayOfImages) {
 		$('<img/>')[0].src = this;
 	});
 }
-preload(['https://raw.githubusercontent.com/JustinHowe/userscripts/master/background.jpg']);
+preload(['https://www.dropbox.com/s/wz4anm22l7haxjh/background.jpg']);
 
 function toTitleCase(str) {
 	return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
