@@ -28,7 +28,7 @@
 }
 
 .side .md .event-attendance a span {
-	background: url(https://raw.githubusercontent.com/yogensia/userscripts/master/icons-attendance.png);
+	background: url('https://raw.githubusercontent.com/yogensia/userscripts/master/icons-attendance.png');
 	display: block;
 }
 
